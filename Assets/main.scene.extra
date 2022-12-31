@@ -1115,7 +1115,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -1201,6 +1201,25 @@
     "editable": true,
     "advanced": false,
     "texture": "e4eda937-0aba-6767-8680-4803d462041b"
+  },
+  {
+    "guid": {
+      "a": "fef5b894-6873-b0e0-d982-c25c4654b178",
+      "b": ""
+    },
+    "objGuid": "Guid(3696103023983097157, 2862761783581717140)",
+    "extraType": "AnimationSequence",
+    "name": "Animation Sequence",
+    "rttiType": "AnimSeqComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "component_aniseq",
+    "expanded": true,
+    "editable": true,
+    "sequence": "3eb5bae7-41ed-39ca-4ed6-3d41970f3d39",
+    "targetProperty": "Albedo",
+    "playMode": 1
   },
   {
     "guid": {

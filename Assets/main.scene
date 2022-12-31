@@ -407,7 +407,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: e4eda937-0aba-6767-8680-4803d462041b--e4eda937-0aba-6767-8680-4803d462041b.png}
+        texture: {localId: 1, path: Library/Artifact/3eb5bae7-41ed-39ca-4ed6-3d41970f3d39/28.png}
+        imageAtlas: {localId: 3, path: 3eb5bae7-41ed-39ca-4ed6-3d41970f3d39--28.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -434,6 +435,24 @@ entities:
         outer: false
         sizeInited: true
         freeInited: false
+      - __class: AnimSeqComponent
+        name: ""
+        guid: {a: 3696103023983097157, b: 2862761783581717140}
+        enabled: true
+        animSeq: {localId: 2, path: 3eb5bae7-41ed-39ca-4ed6-3d41970f3d39--3eb5bae7-41ed-39ca-4ed6-3d41970f3d39.seq}
+        texName: Albedo
+        frameName: _MainTex_ST
+        frameRotateName: _Atlas_Rotated
+        frameInnerName: _Atlas_InnerTex_ST
+        playmode:
+          __class: PlayMode
+          value: loop
+        loopCount: -1
+        speed: 24
+        autoplay: true
+        animSeqMap:
+          __class: Map
+          "Anim Cat ": {localId: 2, path: 3eb5bae7-41ed-39ca-4ed6-3d41970f3d39--3eb5bae7-41ed-39ca-4ed6-3d41970f3d39.seq}
     layer: 1
   - __class: Entity
     name: DEBUG
@@ -1974,7 +1993,7 @@ mobility:
 position: {x: -21, y: 0}
 rotation: -1.707547198748216e-06
 scale: {x: 0.9, y: 0.9}
-size: {x: 217, y: 227}
+size: {x: 256, y: 256}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
