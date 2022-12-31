@@ -1,0 +1,46 @@
+SM Flying Cat
+
+Flappy Bird
+===========
+
+• On effect awake
+isPlaying = false;
+isGameStarted = false;
+
+• On Game start
+isPlaying = true;
+isGameStarted = true;
+
+• Lost game; Next tap will reset the game
+isPlaying = false;
+isGameStarted = true;
+
+Resetting the game
+- Reposition player and obstacles to original position
+- Reset
+
+• After game reset
+isPlaying = false;
+isGameStarted = false;
+
+
+Number displayer
+
+//First digit
+
+int score = 384;
+
+int[] scoreSplitted;
+scoreSplitted[0] = score % 10;
+scoreSplitted[1] = (score / 10) % 10;
+scoreSplitted[2] = (score / 100) % 10;
+scoreSplitted[2] = (score / 1000) % 10;
+scoreSplitted[2] = (score / 10000) % 10;
+
+foreach (var split in scoreSplit)
+{
+	if (split > 0)
+	{
+		
+	}
+}
