@@ -1978,7 +1978,7 @@
     },
     "objGuid": "Guid(92951163947047760, 9473090850681529527)",
     "extraType": "Entity",
-    "name": "ResetButton",
+    "name": "RestartButton",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,

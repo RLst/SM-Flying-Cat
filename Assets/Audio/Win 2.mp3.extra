@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "9011bc98-328e-67cc-eada-2c4a4d54449e",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "Win 2",
+    "objGuid": "Guid(13712487878173904682, 13008947146288801212)",
+    "rttiType": "AudioClip",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "mccState": "SUCCESS"
+  }
+]

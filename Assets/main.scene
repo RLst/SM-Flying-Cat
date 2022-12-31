@@ -407,8 +407,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/3eb5bae7-41ed-39ca-4ed6-3d41970f3d39/28.png}
-        imageAtlas: {localId: 3, path: 3eb5bae7-41ed-39ca-4ed6-3d41970f3d39--28.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/3eb5bae7-41ed-39ca-4ed6-3d41970f3d39/11.png}
+        imageAtlas: {localId: 3, path: 3eb5bae7-41ed-39ca-4ed6-3d41970f3d39--11.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1294,7 +1294,7 @@ entities:
           __class: IFBlendMode
           value: Normal
         texture: {localId: 1, path: Library/Artifact/ffe4bd37-6b4e-bb7e-cfdf-756ed8cf758c/9.png}
-        imageAtlas: {localId: 1, path: ffe4bd37-6b4e-bb7e-cfdf-756ed8cf758c--9.imageatlas}
+        imageAtlas: {localId: 2, path: ffe4bd37-6b4e-bb7e-cfdf-756ed8cf758c--9.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1325,7 +1325,7 @@ entities:
         name: ""
         guid: {a: 16882246431916468748, b: 14255472292627500989}
         enabled: true
-        animSeq: {localId: 1, path: ffe4bd37-6b4e-bb7e-cfdf-756ed8cf758c--ffe4bd37-6b4e-bb7e-cfdf-756ed8cf758c.seq}
+        animSeq: {localId: 2, path: ffe4bd37-6b4e-bb7e-cfdf-756ed8cf758c--ffe4bd37-6b4e-bb7e-cfdf-756ed8cf758c.seq}
         texName: Albedo
         frameName: _MainTex_ST
         frameRotateName: _Atlas_Rotated
@@ -1338,7 +1338,7 @@ entities:
         autoplay: false
         animSeqMap:
           __class: Map
-          Digits: {localId: 1, path: ffe4bd37-6b4e-bb7e-cfdf-756ed8cf758c--ffe4bd37-6b4e-bb7e-cfdf-756ed8cf758c.seq}
+          Digits: {localId: 2, path: ffe4bd37-6b4e-bb7e-cfdf-756ed8cf758c--ffe4bd37-6b4e-bb7e-cfdf-756ed8cf758c.seq}
     layer: 1
   - __class: Entity
     name: Tens
@@ -1364,7 +1364,7 @@ entities:
           __class: IFBlendMode
           value: Normal
         texture: {localId: 1, path: Library/Artifact/ffe4bd37-6b4e-bb7e-cfdf-756ed8cf758c/0.png}
-        imageAtlas: {localId: 1, path: ffe4bd37-6b4e-bb7e-cfdf-756ed8cf758c--0.imageatlas}
+        imageAtlas: {localId: 2, path: ffe4bd37-6b4e-bb7e-cfdf-756ed8cf758c--0.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1395,7 +1395,7 @@ entities:
         name: ""
         guid: {a: 17027156981101243565, b: 11045456126799265956}
         enabled: true
-        animSeq: {localId: 1, path: ffe4bd37-6b4e-bb7e-cfdf-756ed8cf758c--ffe4bd37-6b4e-bb7e-cfdf-756ed8cf758c.seq}
+        animSeq: {localId: 2, path: ffe4bd37-6b4e-bb7e-cfdf-756ed8cf758c--ffe4bd37-6b4e-bb7e-cfdf-756ed8cf758c.seq}
         texName: Albedo
         frameName: _MainTex_ST
         frameRotateName: _Atlas_Rotated
@@ -1408,7 +1408,7 @@ entities:
         autoplay: false
         animSeqMap:
           __class: Map
-          Digits: {localId: 1, path: ffe4bd37-6b4e-bb7e-cfdf-756ed8cf758c--ffe4bd37-6b4e-bb7e-cfdf-756ed8cf758c.seq}
+          Digits: {localId: 2, path: ffe4bd37-6b4e-bb7e-cfdf-756ed8cf758c--ffe4bd37-6b4e-bb7e-cfdf-756ed8cf758c.seq}
     layer: 1
   - __class: Entity
     name: Hundreds
@@ -1434,7 +1434,7 @@ entities:
           __class: IFBlendMode
           value: Normal
         texture: {localId: 1, path: Library/Artifact/ffe4bd37-6b4e-bb7e-cfdf-756ed8cf758c/0.png}
-        imageAtlas: {localId: 1, path: ffe4bd37-6b4e-bb7e-cfdf-756ed8cf758c--0.imageatlas}
+        imageAtlas: {localId: 2, path: ffe4bd37-6b4e-bb7e-cfdf-756ed8cf758c--0.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1465,7 +1465,7 @@ entities:
         name: ""
         guid: {a: 17891009451868177497, b: 8822103941672909239}
         enabled: true
-        animSeq: {localId: 1, path: ffe4bd37-6b4e-bb7e-cfdf-756ed8cf758c--ffe4bd37-6b4e-bb7e-cfdf-756ed8cf758c.seq}
+        animSeq: {localId: 2, path: ffe4bd37-6b4e-bb7e-cfdf-756ed8cf758c--ffe4bd37-6b4e-bb7e-cfdf-756ed8cf758c.seq}
         texName: Albedo
         frameName: _MainTex_ST
         frameRotateName: _Atlas_Rotated
@@ -1478,7 +1478,7 @@ entities:
         autoplay: false
         animSeqMap:
           __class: Map
-          Digits: {localId: 1, path: ffe4bd37-6b4e-bb7e-cfdf-756ed8cf758c--ffe4bd37-6b4e-bb7e-cfdf-756ed8cf758c.seq}
+          Digits: {localId: 2, path: ffe4bd37-6b4e-bb7e-cfdf-756ed8cf758c--ffe4bd37-6b4e-bb7e-cfdf-756ed8cf758c.seq}
     layer: 1
   - __class: Entity
     name: Score
@@ -1583,7 +1583,7 @@ entities:
         freeInited: false
     layer: 1
   - __class: Entity
-    name: ResetButton
+    name: RestartButton
     guid: {a: 92951163947047760, b: 9473090850681529527}
     scene: {localId: 1}
     selfvisible: true
@@ -1740,7 +1740,7 @@ config:
   __class: Map
 msaa:
   __class: MSAAMode
-  value: _4X
+  value: NONE
 jsScriptSystems:
   - js/GraphSystem.js
   - js/EditorInjectSystem.js

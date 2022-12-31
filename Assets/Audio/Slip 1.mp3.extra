@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "db9fae86-5610-b96a-f8f5-fc59fc10eb78",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "Slip 1",
+    "objGuid": "Guid(2540624524299753481, 10272188070203987864)",
+    "rttiType": "AudioClip",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "mccState": "SUCCESS"
+  }
+]

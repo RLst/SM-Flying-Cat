@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "16c87c22-44e7-545c-f97e-984a4339fc16",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "Lose 3",
+    "objGuid": "Guid(14360359546667820479, 3087646376164763280)",
+    "rttiType": "AudioClip",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "mccState": "SUCCESS"
+  }
+]

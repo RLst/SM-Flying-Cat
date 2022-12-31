@@ -1,12 +1,12 @@
 [
   {
     "guid": {
-      "a": "c700f07e-90e2-a184-c0d0-c9a8517385eb",
+      "a": "97061e5e-eca8-f416-18b5-fa6538af92c5",
       "b": ""
     },
     "extraType": "ResItemMP3",
-    "name": "Win sound 2",
-    "objGuid": "Guid(4777078021934810285, 9883472312546239115)",
+    "name": "Win 3",
+    "objGuid": "Guid(15369874375768031977, 8820901688968859816)",
     "rttiType": "AudioClip",
     "version": "0.1.0",
     "isVisibleInInspector": true,

@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "c700f07e-90e2-a184-c0d0-c9a8517385eb",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "Win 4",
+    "objGuid": "Guid(4777078021934810285, 9883472312546239115)",
+    "rttiType": "AudioClip",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "mccState": "SUCCESS"
+  }
+]
