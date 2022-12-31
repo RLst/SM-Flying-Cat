@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "175c4c94-2119-7c7f-87fb-3ab1445010ff",
+      "a": "6ddef729-6904-4d26-8585-4c941154082e",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "Wood 02",
-    "objGuid": "Guid(9244817271509764131, 13082136425797284028)",
+    "name": "Button Begin",
+    "objGuid": "Guid(17024749610394015867, 15879904570996305830)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 1,
-    "quality": 1,
+    "compressionType": 0,
+    "quality": 0,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemMP3",
     "name": "Lose sound 6",
-    "objGuid": "Guid(1175332802833289010, 14834102852774163849)",
+    "objGuid": "Guid(14145769983084116012, 4923025497543727004)",
     "rttiType": "AudioClip",
     "version": "0.1.0",
     "isVisibleInInspector": true,

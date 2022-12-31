@@ -1,19 +1,19 @@
 [
   {
     "guid": {
-      "a": "938575d6-97b6-5d7e-5797-8f40b836cc35",
+      "a": "5683594b-ae48-4f20-ede4-2537f9ce1996",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "Reset Button",
-    "objGuid": "Guid(14791076879364253553, 1502518194692774312)",
+    "name": "Blank White",
+    "objGuid": "Guid(9389689026803812312, 4714850139024708756)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "compressionType": 1,
-    "quality": 1,
-    "maxResolution": 512,
+    "quality": 2,
+    "maxResolution": 128,
     "enableMipmap": false,
     "filterMin": 1,
     "filterMag": 1,

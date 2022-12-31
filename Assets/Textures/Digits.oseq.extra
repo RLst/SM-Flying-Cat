@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "ffe4bd37-6b4e-bb7e-cfdf-756ed8cf758c",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "Digits",
+    "objGuid": "Guid(5787041558572600527, 2402617055185437860)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512
+  }
+]
