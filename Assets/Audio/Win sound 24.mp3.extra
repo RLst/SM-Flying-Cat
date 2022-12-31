@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "6f117e8d-d8d0-cc80-7197-84f42ad13348",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "Win sound 24",
+    "objGuid": "Guid(5639510650341086062, 15226097727724830614)",
+    "rttiType": "AudioClip",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "mccState": "SUCCESS"
+  }
+]

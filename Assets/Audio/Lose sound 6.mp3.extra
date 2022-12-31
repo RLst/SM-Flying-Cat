@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "9428069d-11d7-d11c-e2ca-dda3ccd1b4b0",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "Lose sound 6",
+    "objGuid": "Guid(1175332802833289010, 14834102852774163849)",
+    "rttiType": "AudioClip",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "mccState": "SUCCESS"
+  }
+]

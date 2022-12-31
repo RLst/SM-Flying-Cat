@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "938575d6-97b6-5d7e-5797-8f40b836cc35",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "Reset Button",
+    "objGuid": "Guid(14791076879364253553, 1502518194692774312)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

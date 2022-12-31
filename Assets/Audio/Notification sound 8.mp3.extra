@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "4ec1c1b1-0ca9-721a-ccdf-8573f2907732",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "Notification sound 8",
+    "objGuid": "Guid(9243279808891397699, 1417258407066184344)",
+    "rttiType": "AudioClip",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "mccState": "SUCCESS"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "cb42c63f-df43-57ea-c4fa-32b7a8680635",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "Ground",
+    "objGuid": "Guid(6866577823639640902, 14114125586164148395)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

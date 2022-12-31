@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "1a731ba9-cf71-0195-b75b-4eac8ac7c851",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "Wood 01",
+    "objGuid": "Guid(13278206826871431533, 7784106370614767241)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]
