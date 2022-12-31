@@ -130,6 +130,33 @@
   },
   {
     "guid": {
+      "a": "6a6dcfe5-9f50-3c43-fbeb-344d86dae8a5",
+      "b": ""
+    },
+    "objGuid": "Guid(4273383817403648130, 9920290455305520819)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
       "a": "60fd61aa-b20d-5960-2b0c-4ffd5276e2c6",
       "b": ""
     },
@@ -1990,5 +2017,38 @@
     "editable": true,
     "advanced": false,
     "texture": "19f5973b-15de-dc48-79b9-32c44e17f66a"
+  },
+  {
+    "guid": {
+      "a": "8c5da80d-a258-a5bc-d6ea-d4b4f546ac2d",
+      "b": ""
+    },
+    "objGuid": "Guid(14578092776703287733, 14393173027248724913)",
+    "extraType": "Entity",
+    "name": "BeginButton",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "a1aaf1f9-7047-3437-3574-04a66e96243c",
+      "b": ""
+    },
+    "objGuid": "Guid(1532531205509630348, 11123344737939810963)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": false,
+    "texture": "6ddef729-6904-4d26-8585-4c941154082e"
   }
 ]
