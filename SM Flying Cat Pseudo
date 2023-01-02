@@ -1,7 +1,9 @@
 SM Flying Cat
+=============
 
-Flappy Bird
-===========
+/// <summary>
+/// Determining when the player starts the game, loses the game, resets the game
+/// </summary>
 
 • On effect awake
 isPlaying = false;
@@ -24,9 +26,9 @@ isPlaying = false;
 isGameStarted = false;
 
 
-Number displayer
-
-//First digit
+/// <summary>
+/// Number splitting system
+/// </summary>
 
 int score = 384;
 
@@ -41,6 +43,14 @@ foreach (var split in scoreSplit)
 {
 	if (split > 0)
 	{
-		
 	}
 }
+
+
+/// <summary>
+/// Text center alignment system
+/// </summary>
+1. Get the center point
+2. Determine character size, padding between each character
+3. For every new character above 1, place new char at pos.x + char.width + char.padding.x = totalStringWidth
+4. Shift entire over to the right by totalStringWidth *

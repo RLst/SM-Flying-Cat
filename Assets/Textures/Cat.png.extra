@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "Cat",
-    "objGuid": "Guid(18393234530586937327, 8060810014287149491)",
+    "objGuid": "Guid(8235642646978438399, 13776447488224482693)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

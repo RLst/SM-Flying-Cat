@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "Anim Cat ",
-    "objGuid": "Guid(17096794531355693503, 17642934932766383755)",
+    "objGuid": "Guid(11835567711920215170, 9891556839160761016)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,
