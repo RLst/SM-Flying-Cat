@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemMP3",
     "name": "Lose 2",
-    "objGuid": "Guid(9893750681793781699, 9440259753124144526)",
+    "objGuid": "Guid(740605183447559358, 1487902702137939634)",
     "rttiType": "AudioClip",
     "version": "0.1.0",
     "isVisibleInInspector": true,
