@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "CatFish",
-    "objGuid": "Guid(13998721666680045044, 6946564849283569563)",
+    "objGuid": "Guid(13064904248128558142, 12519794558485002123)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

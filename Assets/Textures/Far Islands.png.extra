@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "Far Islands",
-    "objGuid": "Guid(17532101361050453762, 16301741635435144108)",
+    "objGuid": "Guid(9964773346334264754, 15345736492642158509)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

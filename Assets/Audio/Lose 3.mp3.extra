@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemMP3",
     "name": "Lose 3",
-    "objGuid": "Guid(5999188288502163067, 14911720302720968084)",
+    "objGuid": "Guid(670719726865384387, 2480170648354878394)",
     "rttiType": "AudioClip",
     "version": "0.1.0",
     "isVisibleInInspector": true,

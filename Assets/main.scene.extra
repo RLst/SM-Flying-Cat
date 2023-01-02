@@ -238,10 +238,10 @@
   },
   {
     "guid": {
-      "a": "3c506304-14c3-832c-1914-c255fe5e9737",
+      "a": "6c149167-ddf1-e26d-fa21-944cebea8294",
       "b": ""
     },
-    "objGuid": "Guid(3478988981208857020, 18099539326032435359)",
+    "objGuid": "Guid(17890401493070545631, 3669111710684524958)",
     "extraType": "IFTransform2d",
     "name": "2D Transform",
     "eulerAngle": [
@@ -1939,7 +1939,7 @@
     "expanded": true,
     "editable": true,
     "advanced": false,
-    "texture": "5801bfca-6ee6-c508-0b0c-b52f8dea01b5"
+    "texture": "5683594b-ae48-4f20-ede4-2537f9ce1996"
   },
   {
     "guid": {
@@ -1953,7 +1953,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -2080,10 +2080,10 @@
   },
   {
     "guid": {
-      "a": "2a175f2d-dfa6-b282-7b9b-7c02259a5c3e",
+      "a": "f9af2472-b22d-c933-ae09-f33b1ec004db",
       "b": ""
     },
-    "objGuid": "Guid(8304869573554339140, 12572889564125143977)",
+    "objGuid": "Guid(11909796949416975258, 13208448666904602756)",
     "extraType": "Entity",
     "name": "Units",
     "rttiType": "Entity",
@@ -2095,10 +2095,10 @@
   },
   {
     "guid": {
-      "a": "c1050151-cbed-288b-2134-efe3cc2d822b",
+      "a": "9578c40e-cc90-b43b-ed49-ab05d0962d88",
       "b": ""
     },
-    "objGuid": "Guid(6362356075470357263, 10990613955965736106)",
+    "objGuid": "Guid(2470163205837372942, 2771115000729612988)",
     "extraType": "IFSprite2d",
     "name": "Image",
     "rttiType": "IFSprite2d",
@@ -2113,10 +2113,10 @@
   },
   {
     "guid": {
-      "a": "fb664b8c-811b-b22e-47af-6466f0312fbd",
+      "a": "fd619a83-505e-596a-b7d2-dc8f527b76cc",
       "b": ""
     },
-    "objGuid": "Guid(16882246431916468748, 14255472292627500989)",
+    "objGuid": "Guid(5353754848320387653, 13462207950341734329)",
     "extraType": "AnimationSequence",
     "name": "Animation Sequence",
     "rttiType": "AnimSeqComponent",
