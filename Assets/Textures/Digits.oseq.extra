@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "Digits",
-    "objGuid": "Guid(8884838955983417782, 1026005080752667021)",
+    "objGuid": "Guid(13855953197935386385, 2968981786750172290)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,

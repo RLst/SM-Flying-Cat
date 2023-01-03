@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "f7c544ed-dbe9-7d98-43cc-39c7aa090afc",
+      "b": ""
+    },
+    "extraType": "ResItemRenderTexture",
+    "name": "YourFace",
+    "objGuid": "Guid(17892519528537994073, 16214946716911897511)",
+    "rttiType": "ScreenRenderTexture",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false
+  }
+]

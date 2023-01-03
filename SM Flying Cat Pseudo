@@ -50,7 +50,22 @@ foreach (var split in scoreSplit)
 /// <summary>
 /// Text center alignment system
 /// </summary>
-1. Get the center point
-2. Determine character size, padding between each character
-3. For every new character above 1, place new char at pos.x + char.width + char.padding.x = totalStringWidth
-4. Shift entire over to the right by totalStringWidth *
+// 1. Get the center point
+// 2. Determine character size, padding between each character
+// 3. For every new character above 1, place new char at pos.x + char.width + char.padding.x = totalStringWidth
+// 4. Shift entire assembly over to the right by splitLevel * totalStringWidth * -0.5
+
+
+/// <summary>
+/// Head segmentation centering algo + ear positioning
+/// </summary>
+
+//Head segment centralization
+headOffset.pos = player.pos + offset
+
+headSeg.parent = HeadOffset
+headSeg.pos = FaceInfo().centerPosition - new Vec2(0.5f) * (headSeg.scale2d * headSeg.size) * -1f + new Vec2(offset) [if required];
+
+//Ear positioning
+ears.parent = headOffset
+ears.pos = FaceInfo.Keypoints2D().pos - 0.5g * 

@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "f0bd8675-9b0e-b5a2-8c63-6c1be2e96e51",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "Cat Ears Faceless",
+    "objGuid": "Guid(668626319004841247, 12495144971323810728)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

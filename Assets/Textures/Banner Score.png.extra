@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "Banner Score",
-    "objGuid": "Guid(9025740422327638213, 15418188372456801158)",
+    "objGuid": "Guid(17672292112784498845, 504610548553947829)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
