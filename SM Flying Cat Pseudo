@@ -68,4 +68,7 @@ headSeg.pos = FaceInfo().centerPosition - new Vec2(0.5f) * (headSeg.scale2d * he
 
 //Ear positioning
 ears.parent = headOffset
-ears.pos = FaceInfo.Keypoints2D().pos - 0.5g * 
+ears.pos = FaceInfo.Keypoints2D().pos - 0.5g *
+
+//Scale cat ears
+catEars.size = Vector2.Distance(face.chin - face.center) * fineTuneMultiplier;

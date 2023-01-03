@@ -98,7 +98,7 @@ entities:
           value: Normal
         blendAlpha: 1
         blendAlphaCkeck: true
-        drawCallNum: 11
+        drawCallNum: 12
         maskType:
           __class: IFMaskType
           value: None
@@ -444,8 +444,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/3eb5bae7-41ed-39ca-4ed6-3d41970f3d39/21.png}
-        imageAtlas: {localId: 1, path: 3eb5bae7-41ed-39ca-4ed6-3d41970f3d39--21.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/3eb5bae7-41ed-39ca-4ed6-3d41970f3d39/3.png}
+        imageAtlas: {localId: 1, path: 3eb5bae7-41ed-39ca-4ed6-3d41970f3d39--3.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1902,7 +1902,7 @@ entities:
     name: Cat Ears
     guid: {a: 7153474507556378177, b: 3099259856593284526}
     scene: {localId: 1}
-    selfvisible: false
+    selfvisible: true
     components:
       - {localId: 67}
       - __class: IFSprite2d
@@ -2840,7 +2840,7 @@ name: ""
 guid: {a: 9100079056396026562, b: 9207067650216660147}
 enabled: true
 localPosition: {x: 0, y: 0, z: 0}
-localScale: {x: 0.85, y: 0.85, z: 1}
+localScale: {x: 1.5, y: 1.5, z: 1}
 localOrientation: {w: 0.9975641, x: 0, y: 0, z: 0.06975648}
 parent: {localId: 70}
 mobility:
@@ -2848,9 +2848,9 @@ mobility:
   value: Dynamic
 position: {x: 0, y: 0}
 rotation: 8
-scale: {x: 0.85, y: 0.85}
+scale: {x: 1.5, y: 1.5}
 size: {x: 160, y: 160}
-pivot: {x: 0.5, y: 0.4}
+pivot: {x: 0.5, y: 0.35}
 flipX: false
 flipY: false
 depth: -17
