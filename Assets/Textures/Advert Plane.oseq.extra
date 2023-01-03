@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "b430e3b5-7a15-3cc0-9092-2d2f1963d0cd",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "Advert Plane",
+    "objGuid": "Guid(5568075586701329179, 13737588870072762261)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 256
+  }
+]

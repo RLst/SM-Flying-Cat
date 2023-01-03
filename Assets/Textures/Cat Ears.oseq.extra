@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "b8baa007-c91c-fafc-f3e0-3f664b122522",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "Cat Ears",
+    "objGuid": "Guid(12343144082897103487, 2078143452294096040)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 512
+  }
+]

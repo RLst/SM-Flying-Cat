@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "4527056d-cfd8-1beb-f63e-4b000febdc91",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "CatFish Body",
+    "objGuid": "Guid(12557008561741734952, 17537681209396595866)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 512
+  }
+]

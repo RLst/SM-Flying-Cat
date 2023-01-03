@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "cdaf04d4-6157-6433-3c4b-dd297bec4046",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "Cat Body No Fish",
+    "objGuid": "Guid(3766954986892313995, 5701599884016997787)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 512
+  }
+]

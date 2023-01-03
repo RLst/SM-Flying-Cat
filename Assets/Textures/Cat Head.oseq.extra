@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "21af4aed-8458-1964-4060-11297110e640",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "Cat Head",
+    "objGuid": "Guid(12558054495683772612, 14811144870800439978)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 512
+  }
+]
