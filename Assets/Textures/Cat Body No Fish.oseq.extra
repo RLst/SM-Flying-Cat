@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "Cat Body No Fish",
-    "objGuid": "Guid(1895118175732439169, 9581457553238114948)",
+    "objGuid": "Guid(2758153553116786806, 2059058587700595329)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,

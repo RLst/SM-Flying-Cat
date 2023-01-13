@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "Advert Plane",
-    "objGuid": "Guid(382214227989922162, 10054090623721570737)",
+    "objGuid": "Guid(17747358310110531305, 12930488860299347861)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,

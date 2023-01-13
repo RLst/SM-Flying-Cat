@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "Ground",
-    "objGuid": "Guid(15728306978719035764, 1282526028301186471)",
+    "objGuid": "Guid(594486613549532728, 7635960240014755508)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

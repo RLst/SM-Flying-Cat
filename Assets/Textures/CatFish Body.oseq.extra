@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "CatFish Body",
-    "objGuid": "Guid(6721251743429638924, 3363006586469924000)",
+    "objGuid": "Guid(11693606626961548984, 1514744855241805715)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,

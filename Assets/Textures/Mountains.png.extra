@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "Mountains",
-    "objGuid": "Guid(15081108754808599625, 842236628687386248)",
+    "objGuid": "Guid(9819976864817096675, 11654296429409381791)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
