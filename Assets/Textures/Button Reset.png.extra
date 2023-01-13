@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "Button Reset",
-    "objGuid": "Guid(15943403229029376276, 4130118722791243190)",
+    "objGuid": "Guid(12700298376907630241, 10923268135861194884)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

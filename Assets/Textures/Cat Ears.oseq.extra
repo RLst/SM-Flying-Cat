@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "Cat Ears",
-    "objGuid": "Guid(12343144082897103487, 2078143452294096040)",
+    "objGuid": "Guid(17388075519693587039, 16629286050869184665)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,

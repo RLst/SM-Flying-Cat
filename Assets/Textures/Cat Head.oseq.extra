@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "Cat Head",
-    "objGuid": "Guid(12558054495683772612, 14811144870800439978)",
+    "objGuid": "Guid(13352356669281604554, 18174034925630461338)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,
