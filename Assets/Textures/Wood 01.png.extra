@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "Wood 01",
-    "objGuid": "Guid(14505528509609950955, 16039707325507772062)",
+    "objGuid": "Guid(13711270938988135968, 11817921130806397319)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

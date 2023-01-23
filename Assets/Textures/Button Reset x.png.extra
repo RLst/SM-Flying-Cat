@@ -1,12 +1,12 @@
 [
   {
     "guid": {
-      "a": "00b0d3e8-3b55-aa14-41e7-f58be5f67e57",
+      "a": "5801bfca-6ee6-c508-0b0c-b52f8dea01b5",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "Far Islands",
-    "objGuid": "Guid(1678268830469805133, 1771235230038784929)",
+    "name": "Button Reset x",
+    "objGuid": "Guid(1532266184194103076, 15910929443567368104)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

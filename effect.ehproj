@@ -1,6 +1,6 @@
 {
   "name": "SM Flying Cat",
-  "lastModified": "Fri, 13 Jan 2023 05:06:48 GMT",
+  "lastModified": "Mon, 23 Jan 2023 15:19:04 GMT",
   "version": "1.9.1",
   "toolName": "Effect House",
   "projectID": "2eb0c219-7af7-8e8f-afc0-768ce7f2e0f9",
@@ -75,9 +75,9 @@
     "62": "Layer 62",
     "63": "Layer 63"
   },
-  "durationToCreate": 1342271720,
-  "durationCreation": 285378923,
-  "durationBackground": 174117069,
+  "durationToCreate": 2243007490,
+  "durationCreation": 298915413,
+  "durationBackground": 179824895,
   "effectHint": "show_your_face",
   "templateID": "templateID_none",
   "overwriteBuiltinMakeup": false,

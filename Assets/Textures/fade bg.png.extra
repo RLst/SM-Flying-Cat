@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "00b0d3e8-3b55-aa14-41e7-f58be5f67e57",
+      "a": "20a9a047-752a-7d83-916f-e6dfe7c805b6",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "Far Islands",
-    "objGuid": "Guid(1678268830469805133, 1771235230038784929)",
+    "name": "fade bg",
+    "objGuid": "Guid(2182194666596375910, 15438286861016189371)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 1,
-    "quality": 1,
+    "compressionType": 0,
+    "quality": 0,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

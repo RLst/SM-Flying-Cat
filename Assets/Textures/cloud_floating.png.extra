@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "00b0d3e8-3b55-aa14-41e7-f58be5f67e57",
+      "a": "d6eed4ba-6efe-badc-1c22-8dabe059ca19",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "Far Islands",
-    "objGuid": "Guid(1678268830469805133, 1771235230038784929)",
+    "name": "cloud_floating",
+    "objGuid": "Guid(17960588061906731328, 5972187526442753691)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 1,
-    "quality": 1,
+    "compressionType": 0,
+    "quality": 0,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

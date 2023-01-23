@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "6ddef729-6904-4d26-8585-4c941154082e",
+      "a": "12231baf-e23b-a4c8-c1b4-7134b39509f0",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "Button Begin",
-    "objGuid": "Guid(15440769573742934509, 6577630063727230615)",
+    "name": "lantern",
+    "objGuid": "Guid(16231755156269829956, 2647708105326429373)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 1,
-    "quality": 1,
+    "compressionType": 0,
+    "quality": 0,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

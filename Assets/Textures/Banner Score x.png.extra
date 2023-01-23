@@ -1,12 +1,12 @@
 [
   {
     "guid": {
-      "a": "00b0d3e8-3b55-aa14-41e7-f58be5f67e57",
+      "a": "19f5973b-15de-dc48-79b9-32c44e17f66a",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "Far Islands",
-    "objGuid": "Guid(1678268830469805133, 1771235230038784929)",
+    "name": "Banner Score x",
+    "objGuid": "Guid(7083731860683111868, 16450859083432422300)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

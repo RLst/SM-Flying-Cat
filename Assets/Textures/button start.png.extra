@@ -1,19 +1,19 @@
 [
   {
     "guid": {
-      "a": "00b0d3e8-3b55-aa14-41e7-f58be5f67e57",
+      "a": "e8497647-7ef1-2d42-7495-4b7edcfd1f23",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "Far Islands",
-    "objGuid": "Guid(1678268830469805133, 1771235230038784929)",
+    "name": "button start",
+    "objGuid": "Guid(14072983940152579754, 1173811270538246791)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "compressionType": 1,
     "quality": 1,
-    "maxResolution": 512,
+    "maxResolution": 256,
     "enableMipmap": false,
     "filterMin": 1,
     "filterMag": 1,
