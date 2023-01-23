@@ -1217,7 +1217,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -1250,7 +1250,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -1434,7 +1434,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -1519,7 +1519,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "6dd7db1b-d340-7caa-6102-78f365d277b6"
+    "texture": "8e9e5955-a2dd-938d-ac12-8c5e1ebae506"
   },
   {
     "guid": {
@@ -1552,7 +1552,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "6dd7db1b-d340-7caa-6102-78f365d277b6"
+    "texture": "8e9e5955-a2dd-938d-ac12-8c5e1ebae506"
   },
   {
     "guid": {
@@ -1684,7 +1684,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "4382e9f8-d8cb-d4d1-45c6-bd2aaba0c44a"
+    "texture": "65262dca-f3b2-9433-466a-60cf4769a793"
   },
   {
     "guid": {
@@ -1717,7 +1717,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "4382e9f8-d8cb-d4d1-45c6-bd2aaba0c44a"
+    "texture": "65262dca-f3b2-9433-466a-60cf4769a793"
   },
   {
     "guid": {
@@ -1750,7 +1750,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "00b0d3e8-3b55-aa14-41e7-f58be5f67e57"
+    "texture": "a2ffce79-3a81-1166-c78c-1e63acaea47f"
   },
   {
     "guid": {
@@ -1783,7 +1783,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "00b0d3e8-3b55-aa14-41e7-f58be5f67e57"
+    "texture": "a2ffce79-3a81-1166-c78c-1e63acaea47f"
   },
   {
     "guid": {
@@ -1797,7 +1797,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {

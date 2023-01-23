@@ -61,7 +61,7 @@ entities:
           value: Normal
         blendAlpha: 1
         blendAlphaCkeck: true
-        drawCallNum: 13
+        drawCallNum: 15
         maskType:
           __class: IFMaskType
           value: None
@@ -184,7 +184,7 @@ entities:
     name: Background2
     guid: {a: 742291126945811964, b: 6357173538660808371}
     scene: {localId: 1}
-    selfvisible: false
+    selfvisible: true
     components:
       - {localId: 19}
       - __class: IFSprite2d
@@ -235,7 +235,7 @@ entities:
     name: Background3
     guid: {a: 12703717356743529460, b: 7114758785936357301}
     scene: {localId: 1}
-    selfvisible: false
+    selfvisible: true
     components:
       - {localId: 20}
       - __class: IFSprite2d
@@ -407,8 +407,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/4527056d-cfd8-1beb-f63e-4b000febdc91/9.png}
-        imageAtlas: {localId: 1, path: 4527056d-cfd8-1beb-f63e-4b000febdc91--9.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/4527056d-cfd8-1beb-f63e-4b000febdc91/8.png}
+        imageAtlas: {localId: 1, path: 4527056d-cfd8-1beb-f63e-4b000febdc91--8.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -669,7 +669,7 @@ entities:
         name: ""
         guid: {a: 13857320391889489427, b: 5159867407820692873}
         enabled: true
-        alpha: 1
+        alpha: 0.5
         cascadeAlphaEnabled: false
         type:
           __class: IFSprite2dType
@@ -681,7 +681,7 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: 6dd7db1b-d340-7caa-6102-78f365d277b6--6dd7db1b-d340-7caa-6102-78f365d277b6.png}
+        texture: {localId: 1, path: 8e9e5955-a2dd-938d-ac12-8c5e1ebae506--8e9e5955-a2dd-938d-ac12-8c5e1ebae506.png}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -720,7 +720,7 @@ entities:
         name: ""
         guid: {a: 4632689923288169028, b: 8524478423231972996}
         enabled: true
-        alpha: 1
+        alpha: 0.5
         cascadeAlphaEnabled: false
         type:
           __class: IFSprite2dType
@@ -732,7 +732,7 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: 6dd7db1b-d340-7caa-6102-78f365d277b6--6dd7db1b-d340-7caa-6102-78f365d277b6.png}
+        texture: {localId: 1, path: 8e9e5955-a2dd-938d-ac12-8c5e1ebae506--8e9e5955-a2dd-938d-ac12-8c5e1ebae506.png}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -771,7 +771,7 @@ entities:
         name: ""
         guid: {a: 4991290783503567203, b: 12276614798768211104}
         enabled: true
-        alpha: 0.300000011920929
+        alpha: 0.699999988079071
         cascadeAlphaEnabled: false
         type:
           __class: IFSprite2dType
@@ -936,7 +936,7 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: 4382e9f8-d8cb-d4d1-45c6-bd2aaba0c44a--4382e9f8-d8cb-d4d1-45c6-bd2aaba0c44a.png}
+        texture: {localId: 1, path: 65262dca-f3b2-9433-466a-60cf4769a793--65262dca-f3b2-9433-466a-60cf4769a793.png}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -987,7 +987,7 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: 4382e9f8-d8cb-d4d1-45c6-bd2aaba0c44a--4382e9f8-d8cb-d4d1-45c6-bd2aaba0c44a.png}
+        texture: {localId: 1, path: 65262dca-f3b2-9433-466a-60cf4769a793--65262dca-f3b2-9433-466a-60cf4769a793.png}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1026,7 +1026,7 @@ entities:
         name: ""
         guid: {a: 4128817407600850271, b: 4878038402284321194}
         enabled: true
-        alpha: 1
+        alpha: 0.6000000238418579
         cascadeAlphaEnabled: false
         type:
           __class: IFSprite2dType
@@ -1038,7 +1038,7 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: 00b0d3e8-3b55-aa14-41e7-f58be5f67e57--00b0d3e8-3b55-aa14-41e7-f58be5f67e57.png}
+        texture: {localId: 1, path: a2ffce79-3a81-1166-c78c-1e63acaea47f--a2ffce79-3a81-1166-c78c-1e63acaea47f.png}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1077,7 +1077,7 @@ entities:
         name: ""
         guid: {a: 2324584304784564863, b: 9368738883517088151}
         enabled: true
-        alpha: 1
+        alpha: 0.6000000238418579
         cascadeAlphaEnabled: false
         type:
           __class: IFSprite2dType
@@ -1089,7 +1089,7 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: 00b0d3e8-3b55-aa14-41e7-f58be5f67e57--00b0d3e8-3b55-aa14-41e7-f58be5f67e57.png}
+        texture: {localId: 1, path: a2ffce79-3a81-1166-c78c-1e63acaea47f--a2ffce79-3a81-1166-c78c-1e63acaea47f.png}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1980,8 +1980,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/21af4aed-8458-1964-4060-11297110e640/35.png}
-        imageAtlas: {localId: 1, path: 21af4aed-8458-1964-4060-11297110e640--35.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/21af4aed-8458-1964-4060-11297110e640/7.png}
+        imageAtlas: {localId: 1, path: 21af4aed-8458-1964-4060-11297110e640--7.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -2377,14 +2377,14 @@ depth: -26
 name: ""
 guid: {a: 236275542636369706, b: 14627717607708459444}
 enabled: true
-localPosition: {x: -1, y: 3.595456e-08, z: 0}
+localPosition: {x: -1, y: -2.365008e-08, z: 0}
 localScale: {x: 1, y: 1, z: 1}
 localOrientation: {w: 1, x: 0, y: 0, z: 0}
 parent: {localId: 20}
 mobility:
   __class: Mobility
   value: Dynamic
-position: {x: -640, y: 2.301092e-05}
+position: {x: -640, y: -1.513605e-05}
 rotation: 0
 scale: {x: 1, y: 1}
 size: {x: 1280, y: 1280}
@@ -2425,7 +2425,7 @@ mobility:
 position: {x: -2.831221e-06, y: -640}
 rotation: 0
 scale: {x: 1, y: 1}
-size: {x: 720, y: 1280}
+size: {x: 720, y: 640}
 pivot: {x: 0.5, y: 0}
 flipX: false
 flipY: false
@@ -2441,7 +2441,7 @@ parent: {localId: 6}
 mobility:
   __class: Mobility
   value: Dynamic
-position: {x: -256, y: -7.629394e-06}
+position: {x: -256, y: -7.629393e-06}
 rotation: 0
 scale: {x: 1, y: 1}
 size: {x: 512, y: 512}

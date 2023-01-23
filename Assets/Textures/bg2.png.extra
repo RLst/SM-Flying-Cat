@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "5801bfca-6ee6-c508-0b0c-b52f8dea01b5",
+      "a": "a2ffce79-3a81-1166-c78c-1e63acaea47f",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "Button Reset x",
-    "objGuid": "Guid(1532266184194103076, 15910929443567368104)",
+    "name": "bg2",
+    "objGuid": "Guid(6793681923401885635, 13123782655851123377)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 1,
-    "quality": 1,
+    "compressionType": 0,
+    "quality": 0,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

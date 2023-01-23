@@ -1,12 +1,12 @@
 [
   {
     "guid": {
-      "a": "71232fba-aa1d-e3c4-ef22-f7d10389d004",
+      "a": "65262dca-f3b2-9433-466a-60cf4769a793",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "floating",
-    "objGuid": "Guid(8884484390178479484, 15635209938898082192)",
+    "name": "bg1",
+    "objGuid": "Guid(2830022412135238402, 17013671493655674015)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
