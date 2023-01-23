@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemMP3",
     "name": "Drop 1",
-    "objGuid": "Guid(17817973084148446208, 12003241561571501992)",
+    "objGuid": "Guid(8594985780950616975, 628489428721202058)",
     "rttiType": "AudioClip",
     "version": "0.1.0",
     "isVisibleInInspector": true,

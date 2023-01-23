@@ -2319,7 +2319,7 @@
     "displayKey": "component_aniseq",
     "expanded": true,
     "editable": true,
-    "sequence": "b8baa007-c91c-fafc-f3e0-3f664b122522",
+    "sequence": "00000000-0000-0000-0000-00000000006c",
     "targetProperty": "Albedo",
     "playMode": 1
   },

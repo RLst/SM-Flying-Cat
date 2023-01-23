@@ -407,8 +407,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/4527056d-cfd8-1beb-f63e-4b000febdc91/13.png}
-        imageAtlas: {localId: 1, path: 4527056d-cfd8-1beb-f63e-4b000febdc91--13.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/4527056d-cfd8-1beb-f63e-4b000febdc91/42.png}
+        imageAtlas: {localId: 1, path: 4527056d-cfd8-1beb-f63e-4b000febdc91--42.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1891,7 +1891,7 @@ entities:
         name: ""
         guid: {a: 1175056333977198752, b: 15622946694866750380}
         enabled: true
-        animSeq: {localId: 1, path: b8baa007-c91c-fafc-f3e0-3f664b122522--b8baa007-c91c-fafc-f3e0-3f664b122522.seq}
+        animSeq: {localId: 1, path: 00000000-0000-0000-0000-00000000006c--00000000-0000-0000-0000-00000000006c.seq}
         texName: Albedo
         frameName: _MainTex_ST
         frameRotateName: _Atlas_Rotated
@@ -1904,7 +1904,7 @@ entities:
         autoplay: true
         animSeqMap:
           __class: Map
-          Cat Ears: {localId: 1, path: b8baa007-c91c-fafc-f3e0-3f664b122522--b8baa007-c91c-fafc-f3e0-3f664b122522.seq}
+          defaultErrorSeq: {localId: 1, path: 00000000-0000-0000-0000-00000000006c--00000000-0000-0000-0000-00000000006c.seq}
     layer: 1
   - __class: Entity
     name: HeadOffset
@@ -1980,8 +1980,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/21af4aed-8458-1964-4060-11297110e640/43.png}
-        imageAtlas: {localId: 1, path: 21af4aed-8458-1964-4060-11297110e640--43.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/21af4aed-8458-1964-4060-11297110e640/4.png}
+        imageAtlas: {localId: 1, path: 21af4aed-8458-1964-4060-11297110e640--4.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -2752,7 +2752,7 @@ mobility:
 position: {x: 0, y: 0}
 rotation: 8.000001907348633
 scale: {x: 0.9999999, y: 0.9999999}
-size: {x: 256, y: 256}
+size: {x: 336, y: 336}
 pivot: {x: 0.5, y: 0.3}
 flipX: false
 flipY: false
