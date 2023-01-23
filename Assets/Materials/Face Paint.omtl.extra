@@ -6,11 +6,11 @@
     },
     "extraType": "ResItemMaterialOmtl",
     "name": "Face Paint",
-    "objGuid": "Guid(15369760772003134338, 3964650671636727996)",
+    "objGuid": "Guid(17169152549884891938, 12167935760050610334)",
     "rttiType": "Material",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "skinObjGuid": "Guid(5426637556614762498, 5498227437073160068)"
+    "skinObjGuid": "Guid(451076539614688533, 9419027571972625831)"
   }
 ]

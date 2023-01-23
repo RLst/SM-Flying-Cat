@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "coin",
-    "objGuid": "Guid(16808578087279822590, 5994697746037659289)",
+    "objGuid": "Guid(524257621217543228, 6505743118618930864)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

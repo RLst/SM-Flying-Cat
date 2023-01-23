@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "fade bg",
-    "objGuid": "Guid(2182194666596375910, 15438286861016189371)",
+    "objGuid": "Guid(4705774846705814227, 13657493027076440504)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
