@@ -61,7 +61,7 @@ entities:
           value: Normal
         blendAlpha: 1
         blendAlphaCkeck: true
-        drawCallNum: 15
+        drawCallNum: 16
         maskType:
           __class: IFMaskType
           value: None
@@ -407,8 +407,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/4527056d-cfd8-1beb-f63e-4b000febdc91/22.png}
-        imageAtlas: {localId: 1, path: 4527056d-cfd8-1beb-f63e-4b000febdc91--22.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/4527056d-cfd8-1beb-f63e-4b000febdc91/4.png}
+        imageAtlas: {localId: 1, path: 4527056d-cfd8-1beb-f63e-4b000febdc91--4.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -771,7 +771,7 @@ entities:
         name: ""
         guid: {a: 4991290783503567203, b: 12276614798768211104}
         enabled: true
-        alpha: 0.8999999761581421
+        alpha: 0.8500000238418579
         cascadeAlphaEnabled: false
         type:
           __class: IFSprite2dType
@@ -779,7 +779,7 @@ entities:
         sizeMode:
           __class: IFSprite2dSizeMode
           value: Custom
-        colorTint: {r: 1, g: 0.2888474, b: 0.06068426, a: 1}
+        colorTint: {r: 1, g: 0.3838267, b: 0.1819192, a: 1}
         blendMode:
           __class: IFBlendMode
           value: Normal
@@ -1980,8 +1980,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/21af4aed-8458-1964-4060-11297110e640/22.png}
-        imageAtlas: {localId: 1, path: 21af4aed-8458-1964-4060-11297110e640--22.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/21af4aed-8458-1964-4060-11297110e640/4.png}
+        imageAtlas: {localId: 1, path: 21af4aed-8458-1964-4060-11297110e640--4.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -2026,6 +2026,76 @@ entities:
         animSeqMap:
           __class: Map
           Cat Head: {localId: 1, path: 21af4aed-8458-1964-4060-11297110e640--21af4aed-8458-1964-4060-11297110e640.seq}
+    layer: 1
+  - __class: Entity
+    name: Adplane
+    guid: {a: 7874190517187937546, b: 296962864490988211}
+    scene: {localId: 1}
+    selfvisible: true
+    components:
+      - {localId: 72}
+      - __class: IFSprite2d
+        name: ""
+        guid: {a: 3624431602674157618, b: 10752366249375386293}
+        enabled: true
+        alpha: 0.5
+        cascadeAlphaEnabled: false
+        type:
+          __class: IFSprite2dType
+          value: Normal
+        sizeMode:
+          __class: IFSprite2dSizeMode
+          value: Custom
+        colorTint: {r: 1, g: 1, b: 1, a: 1}
+        blendMode:
+          __class: IFBlendMode
+          value: Normal
+        texture: {localId: 1, path: Library/Artifact/f0ee682f-9380-06b4-7e56-e8983ac604e6/21.png}
+        imageAtlas: {localId: 2, path: f0ee682f-9380-06b4-7e56-e8983ac604e6--21.imageatlas}
+        atlasIndex: 0
+        filledType:
+          __class: IFFilledType
+          value: Horizontal
+        filledStartPos: 0
+        filledRange: 1
+        ellipseX: 336
+        ellipseY: 336
+        topLeftPoint: {x: 0, y: 0}
+        topRightPoint: {x: 0, y: 0}
+        bottomLeftPoint: {x: 0, y: 0}
+        bottomRightPoint: {x: 0, y: 0}
+        slicedLeft: 0.1000000014901161
+        slicedRight: 0.8999999761581421
+        slicedBottom: 0.1000000014901161
+        slicedTop: 0.8999999761581421
+        fillCenter: true
+        topLeft: 0.5
+        topRight: 0.5
+        bottomLeft: 0.5
+        bottomRight: 0.5
+        lineWidth: 1
+        lineColor: {r: 1, g: 1, b: 1, a: 1}
+        outer: false
+        sizeInited: true
+        freeInited: false
+      - __class: AnimSeqComponent
+        name: ""
+        guid: {a: 1533764701335013650, b: 18321543195242048165}
+        enabled: true
+        animSeq: {localId: 2, path: f0ee682f-9380-06b4-7e56-e8983ac604e6--f0ee682f-9380-06b4-7e56-e8983ac604e6.seq}
+        texName: Albedo
+        frameName: _MainTex_ST
+        frameRotateName: _Atlas_Rotated
+        frameInnerName: _Atlas_InnerTex_ST
+        playmode:
+          __class: PlayMode
+          value: loop
+        loopCount: -1
+        speed: 12
+        autoplay: true
+        animSeqMap:
+          __class: Map
+          adplane: {localId: 2, path: f0ee682f-9380-06b4-7e56-e8983ac604e6--f0ee682f-9380-06b4-7e56-e8983ac604e6.seq}
     layer: 1
 visible: true
 config:
@@ -2221,7 +2291,7 @@ size: {x: 128, y: 128}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -33
+depth: -34
 --- !Transform &23
 name: ""
 guid: {a: 12988817332133401901, b: 3676689715846645412}
@@ -2391,7 +2461,7 @@ size: {x: 1280, y: 1280}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -34
+depth: -35
 --- !IFTransform2d &42
 name: ""
 guid: {a: 12126069765732794374, b: 1634565095125136056}
@@ -2410,7 +2480,7 @@ size: {x: 1280, y: 1280}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -35
+depth: -36
 --- !IFTransform2d &45
 name: ""
 guid: {a: 812282000834977941, b: 10426138176436976033}
@@ -2429,7 +2499,7 @@ size: {x: 720, y: 319.341}
 pivot: {x: 0.5, y: 0}
 flipX: false
 flipY: false
-depth: -36
+depth: -37
 --- !IFTransform2d &46
 name: ""
 guid: {a: 4273256018457681464, b: 1693555512944118457}
@@ -2533,6 +2603,8 @@ localPosition: {x: 1, y: 5.960464e-08, z: 0}
 localScale: {x: 1, y: 1, z: 1}
 localOrientation: {w: 1, x: 0, y: 0, z: 0}
 parent: {localId: 19}
+children:
+  - {localId: 72}
 mobility:
   __class: Mobility
   value: Dynamic
@@ -2798,3 +2870,22 @@ pivot: {x: 0.55, y: 0.5}
 flipX: false
 flipY: false
 depth: -16
+--- !IFTransform2d &72
+name: ""
+guid: {a: 16664416808170173811, b: 4118513324642061197}
+enabled: true
+localPosition: {x: -0.8, y: -0.3804537, z: 0}
+localScale: {x: 1.5, y: 1.5, z: 1}
+localOrientation: {w: 1, x: 0, y: 0, z: 0}
+parent: {localId: 51}
+mobility:
+  __class: Mobility
+  value: Dynamic
+position: {x: -512, y: -243.4904}
+rotation: 0
+scale: {x: 1.5, y: 1.5}
+size: {x: 256, y: 71}
+pivot: {x: 0.5, y: 0.5}
+flipX: false
+flipY: false
+depth: -33

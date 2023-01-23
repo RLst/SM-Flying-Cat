@@ -967,6 +967,33 @@
   },
   {
     "guid": {
+      "a": "19293c59-9d6a-d6e0-47f1-90838f88a6b8",
+      "b": ""
+    },
+    "objGuid": "Guid(16664416808170173811, 4118513324642061197)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
       "a": "75fb8c9b-eefc-d8a4-c87d-1c42fcbc1706",
       "b": ""
     },
@@ -2405,6 +2432,58 @@
     "expanded": true,
     "editable": true,
     "sequence": "21af4aed-8458-1964-4060-11297110e640",
+    "targetProperty": "Albedo",
+    "playMode": 1
+  },
+  {
+    "guid": {
+      "a": "2302b35b-e778-fdfc-c599-d1fc87d8e476",
+      "b": ""
+    },
+    "objGuid": "Guid(7874190517187937546, 296962864490988211)",
+    "extraType": "Entity",
+    "name": "Adplane",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "4423aff6-df0a-172d-1885-79712f104116",
+      "b": ""
+    },
+    "objGuid": "Guid(3624431602674157618, 10752366249375386293)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": true,
+    "texture": "5683594b-ae48-4f20-ede4-2537f9ce1996"
+  },
+  {
+    "guid": {
+      "a": "3ab6eefe-0468-4067-06dd-31f81fcd9c32",
+      "b": ""
+    },
+    "objGuid": "Guid(1533764701335013650, 18321543195242048165)",
+    "extraType": "AnimationSequence",
+    "name": "Animation Sequence",
+    "rttiType": "AnimSeqComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "component_aniseq",
+    "expanded": true,
+    "editable": true,
+    "sequence": "f0ee682f-9380-06b4-7e56-e8983ac604e6",
     "targetProperty": "Albedo",
     "playMode": 1
   }
