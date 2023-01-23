@@ -1,19 +1,19 @@
 [
   {
     "guid": {
-      "a": "20a9a047-752a-7d83-916f-e6dfe7c805b6",
+      "a": "6c44eaa7-b112-66d6-7e73-f31327691e70",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "fade bg",
-    "objGuid": "Guid(5354733157489338092, 16444753186969742491)",
+    "name": "bg0",
+    "objGuid": "Guid(9027081848382371564, 716504826219535240)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 1,
-    "quality": 1,
-    "maxResolution": 128,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,
     "filterMag": 1,

@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "button start",
-    "objGuid": "Guid(6579504122715074399, 13307445233262392997)",
+    "objGuid": "Guid(1175178116573930497, 4613686450075905215)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemMP3",
     "name": "Win 1",
-    "objGuid": "Guid(8521886661516529691, 4156179696544124584)",
+    "objGuid": "Guid(5494984007850919759, 17792005524282847417)",
     "rttiType": "AudioClip",
     "version": "0.1.0",
     "isVisibleInInspector": true,

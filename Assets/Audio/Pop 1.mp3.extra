@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemMP3",
     "name": "Pop 1",
-    "objGuid": "Guid(10326397395291208089, 8248536246124896695)",
+    "objGuid": "Guid(1247244028776692378, 1435642778550685884)",
     "rttiType": "AudioClip",
     "version": "0.1.0",
     "isVisibleInInspector": true,

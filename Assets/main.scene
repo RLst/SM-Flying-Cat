@@ -407,8 +407,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/4527056d-cfd8-1beb-f63e-4b000febdc91/42.png}
-        imageAtlas: {localId: 1, path: 4527056d-cfd8-1beb-f63e-4b000febdc91--42.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/4527056d-cfd8-1beb-f63e-4b000febdc91/22.png}
+        imageAtlas: {localId: 1, path: 4527056d-cfd8-1beb-f63e-4b000febdc91--22.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -771,7 +771,7 @@ entities:
         name: ""
         guid: {a: 4991290783503567203, b: 12276614798768211104}
         enabled: true
-        alpha: 0.6000000238418579
+        alpha: 0.8999999761581421
         cascadeAlphaEnabled: false
         type:
           __class: IFSprite2dType
@@ -779,11 +779,11 @@ entities:
         sizeMode:
           __class: IFSprite2dSizeMode
           value: Custom
-        colorTint: {r: 0.7176471, g: 0.9372549, b: 1, a: 1}
+        colorTint: {r: 1, g: 0.2888474, b: 0.06068426, a: 1}
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: 20a9a047-752a-7d83-916f-e6dfe7c805b6--20a9a047-752a-7d83-916f-e6dfe7c805b6.png}
+        texture: {localId: 1, path: 6c44eaa7-b112-66d6-7e73-f31327691e70--6c44eaa7-b112-66d6-7e73-f31327691e70.png}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1980,8 +1980,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/21af4aed-8458-1964-4060-11297110e640/4.png}
-        imageAtlas: {localId: 1, path: 21af4aed-8458-1964-4060-11297110e640--4.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/21af4aed-8458-1964-4060-11297110e640/22.png}
+        imageAtlas: {localId: 1, path: 21af4aed-8458-1964-4060-11297110e640--22.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -2415,17 +2415,17 @@ depth: -35
 name: ""
 guid: {a: 812282000834977941, b: 10426138176436976033}
 enabled: true
-localPosition: {x: -4.423783e-09, y: -1, z: 0}
+localPosition: {x: 0, y: -1, z: 0}
 localScale: {x: 1, y: 1, z: 1}
 localOrientation: {w: 1, x: 0, y: 0, z: 0}
 parent: {localId: 5}
 mobility:
   __class: Mobility
   value: Dynamic
-position: {x: -2.831221e-06, y: -640}
+position: {x: 0, y: -640}
 rotation: 0
 scale: {x: 1, y: 1}
-size: {x: 720, y: 1280}
+size: {x: 720, y: 319.341}
 pivot: {x: 0.5, y: 0}
 flipX: false
 flipY: false

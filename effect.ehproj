@@ -1,6 +1,6 @@
 {
   "name": "Thử Thách Mèo Cá Chép",
-  "lastModified": "Mon, 23 Jan 2023 16:29:37 GMT",
+  "lastModified": "Mon, 23 Jan 2023 16:46:16 GMT",
   "version": "1.9.1",
   "toolName": "Effect House",
   "projectID": "2eb0c219-7af7-8e8f-afc0-768ce7f2e0f9",
@@ -75,9 +75,9 @@
     "62": "Layer 62",
     "63": "Layer 63"
   },
-  "durationToCreate": 2247240690,
-  "durationCreation": 302979508,
-  "durationBackground": 182317344,
+  "durationToCreate": 2248239934,
+  "durationCreation": 303883442,
+  "durationBackground": 182691871,
   "effectHint": "show_your_face",
   "templateID": "templateID_none",
   "overwriteBuiltinMakeup": false,
