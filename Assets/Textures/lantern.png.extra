@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "lantern",
-    "objGuid": "Guid(6359693400632469395, 2153699210676218813)",
+    "objGuid": "Guid(2397733773274070030, 16156234263326493878)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

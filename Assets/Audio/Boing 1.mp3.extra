@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemMP3",
     "name": "Boing 1",
-    "objGuid": "Guid(15731016658766777640, 2321971249994513284)",
+    "objGuid": "Guid(14142574146422924975, 16619432475677230984)",
     "rttiType": "AudioClip",
     "version": "0.1.0",
     "isVisibleInInspector": true,

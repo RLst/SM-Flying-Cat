@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemMP3",
     "name": "Notification sound 8",
-    "objGuid": "Guid(1244405005612207023, 4383215410032273839)",
+    "objGuid": "Guid(9387279609126698579, 3227445147337656206)",
     "rttiType": "AudioClip",
     "version": "0.1.0",
     "isVisibleInInspector": true,
