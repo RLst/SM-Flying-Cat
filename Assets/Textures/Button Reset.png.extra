@@ -1,19 +1,19 @@
 [
   {
     "guid": {
-      "a": "5801bfca-6ee6-c508-0b0c-b52f8dea01b5",
+      "a": "e0709545-c232-1bc1-a49a-610ac10ba7f2",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "Button Reset",
-    "objGuid": "Guid(6648817078733970196, 17399442313150150532)",
+    "name": "button reset",
+    "objGuid": "Guid(5282346877291138362, 6444740392337046429)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "compressionType": 1,
     "quality": 1,
-    "maxResolution": 512,
+    "maxResolution": 256,
     "enableMipmap": false,
     "filterMin": 1,
     "filterMag": 1,

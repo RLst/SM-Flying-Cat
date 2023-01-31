@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "f0ee682f-9380-06b4-7e56-e8983ac604e6",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "adplane",
+    "objGuid": "Guid(11118196558911696670, 4552908793888093589)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 256
+  }
+]
