@@ -1,6 +1,6 @@
 {
-  "name": "SM Flying Cat",
-  "lastModified": "Fri, 13 Jan 2023 05:06:48 GMT",
+  "name": "Thử Thách Mèo Cá Chép",
+  "lastModified": "Wed, 25 Jan 2023 09:11:26 GMT",
   "version": "1.9.1",
   "toolName": "Effect House",
   "projectID": "2eb0c219-7af7-8e8f-afc0-768ce7f2e0f9",
@@ -75,10 +75,10 @@
     "62": "Layer 62",
     "63": "Layer 63"
   },
-  "durationToCreate": 1342271720,
-  "durationCreation": 285378923,
-  "durationBackground": 174117069,
-  "effectHint": "show_your_face",
+  "durationToCreate": 2393749067,
+  "durationCreation": 311977701,
+  "durationBackground": 189444902,
+  "effectHint": "tap_your_screen",
   "templateID": "templateID_none",
   "overwriteBuiltinMakeup": false,
   "overwriteBuiltinFilter": true

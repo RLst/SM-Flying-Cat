@@ -1,19 +1,19 @@
 [
   {
     "guid": {
-      "a": "19f5973b-15de-dc48-79b9-32c44e17f66a",
+      "a": "692ab30b-301a-0ca0-bee3-b0e2f19771a4",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "Banner Score",
-    "objGuid": "Guid(670754850665659317, 8950054374560318132)",
+    "name": "banner score",
+    "objGuid": "Guid(6435630027985429709, 6273207034862199443)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "compressionType": 1,
     "quality": 1,
-    "maxResolution": 512,
+    "maxResolution": 256,
     "enableMipmap": false,
     "filterMin": 1,
     "filterMag": 1,
